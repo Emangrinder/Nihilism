@@ -33,11 +33,11 @@ section > button {
     width: 80%;
     height: 10%;
     font-family: 'Times New Roman', Times, serif, monospace;
-    box-shadow: black 10px 10px;
+    box-shadow: orange 10px 10px;
 }
 
 section > button:hover {
-    background-color: orange;
+    background-color: navy;
     border-style: line;
     border-width: 1px;
     border-color: white;
